@@ -1,0 +1,31 @@
+[
+    {"name":"Bag",
+    "price":45,
+    "size":"m",
+    "id":1},
+
+    {"name":"Shoe",
+    "price":50,
+    "size":23,
+    "id":2},
+
+    {"name":"Shirt",
+    "price":75,
+    "size":"Xl",
+    "id":3},
+
+    {"name":"Ruler",
+    "price":25,
+    "size":"5",
+    "id":4},
+
+    {"name":"Cell Phone",
+    "price":57,
+    "size":"6",
+    "id":5},
+
+    {"name":"Socket",
+    "price":28,
+    "size":"Xxl",
+    "id":6}
+]
